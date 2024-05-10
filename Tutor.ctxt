@@ -1,0 +1,22 @@
+#BlueJ class context
+comment0.target=Tutor
+comment0.text=\n\ Tutor\ is\ a\ subclass\ of\ the\ class\ Teacher.\n\n\ @author\ Amiks\ Karki\n\ @version\ 15th\ January\ 2024\ Java\ Coursework\n
+comment1.params=teacherID\ teacherName\ address\ workingType\ employmentStatus\ workingHours\ salary\ specialization\ academicQualification\ performanceIndex
+comment1.target=Tutor(int,\ java.lang.String,\ java.lang.String,\ java.lang.String,\ java.lang.String,\ int,\ double,\ java.lang.String,\ java.lang.String,\ int)
+comment2.params=
+comment2.target=double\ getSalary()
+comment3.params=
+comment3.target=java.lang.String\ getSpecialization()
+comment4.params=
+comment4.target=java.lang.String\ getAcademicQualification()
+comment5.params=
+comment5.target=int\ getPerformanceIndex()
+comment6.params=
+comment6.target=boolean\ getIsCertified()
+comment7.params=newSalary\ newPerformanceIndex
+comment7.target=void\ setSalary(double,\ int)
+comment8.params=
+comment8.target=void\ removeTutor()
+comment9.params=
+comment9.target=void\ display()
+numComments=10

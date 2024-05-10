@@ -1,0 +1,20 @@
+#BlueJ class context
+comment0.target=Lecturer
+comment0.text=\n\ Lecturer\ is\ a\ subclass\ of\ the\ class\ Teacher.\n\n\ @author\ Amiks\ Karki\n\ @version\ 15th\ January\ 2024\ Java\ Coursework\n
+comment1.params=teacherID\ teacherName\ address\ workingType\ employmentStatus\ workingHours\ department\ yearsOfExperience
+comment1.target=Lecturer(int,\ java.lang.String,\ java.lang.String,\ java.lang.String,\ java.lang.String,\ int,\ java.lang.String,\ int)
+comment2.params=
+comment2.target=java.lang.String\ getDepartment()
+comment3.params=
+comment3.target=int\ getYearsOfExperience()
+comment4.params=
+comment4.target=int\ getGradedScore()
+comment5.params=
+comment5.target=boolean\ getHasGraded()
+comment6.params=gradedScore
+comment6.target=void\ setGradedScore(int)
+comment7.params=gradedScore\ department\ yearsOfExperience
+comment7.target=void\ gradeAssignment(int,\ java.lang.String,\ int)
+comment8.params=
+comment8.target=void\ display()
+numComments=9
